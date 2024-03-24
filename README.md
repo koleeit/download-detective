@@ -1,7 +1,7 @@
 # Download Detective
 
-![Download Detective - screenshot 1](https://kolee.kr/assets/images/screenshot1-95931be1188cea24ae3808f63743bd88.png)
-![Download Detective - screenshot 2](https://kolee.kr/assets/images/screenshot2-662049798905963e25500c534bd743ce.png)
+![Download Detective - screenshot 1](https://ph-files.imgix.net/d0bb3098-83bc-4b56-9dc1-aed66dd31071.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fm=pjpg&w=1100&h=622&fit=max&dpr=1)
+![Download Detective - screenshot 2](https://ph-files.imgix.net/4d804155-c4bb-43d5-9bfe-4103c5c8678e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=963&h=824&fit=max&dpr=1)
 
 Hello there! Are you struggling with file management? Say goodbye to those woes with 'Download Detective.' Our Basic version is here to smartly keep your download folder in check. It provides statistics by file type, allowing you to easily see what's taking up space, and enables you to delete unnecessary files with just a click. No more stress over a cluttered download folder!
 
