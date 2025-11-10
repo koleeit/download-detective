@@ -1,3 +1,11 @@
+⚠️ Project Moved
+
+This project has been moved to a new repository:
+👉 https://github.com/koleeit/ornix-release
+
+Please note that Download Detective is no longer maintained here.
+All future updates, releases, and issues will be managed in the new repository above.
+
 # Download Detective
 
 ![Download Detective - screenshot 1](https://ph-files.imgix.net/d0bb3098-83bc-4b56-9dc1-aed66dd31071.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fm=pjpg&w=1100&h=622&fit=max&dpr=1)
